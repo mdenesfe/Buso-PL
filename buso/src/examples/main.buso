@@ -1,0 +1,3 @@
+var isim = "Enes";
+
+print(isim);
